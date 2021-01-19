@@ -1,0 +1,18 @@
+#Custom Added files
+Assets/*
+
+!Assets/Scripts
+
+Library/*
+
+obj/*
+
+.vs/*
+
+Logs/*
+
+UIElementsSchema/*
+
+ProjectSettings/*
+
+Packages/*
